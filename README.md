@@ -6,4 +6,4 @@ I'm Antonio Borojevic and I do content on Web Development. I really enjoy learni
 
 ## Skills and Experience
 
-- 💻 HTML, CSS, JS
+- 💻 HTML, CSS, JavaScript
